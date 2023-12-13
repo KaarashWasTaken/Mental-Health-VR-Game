@@ -74,5 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Bridge Assets
-Content/Megascans/*
-Content/MSPresets/*
+#Content/Megascans/*
+#Content/MSPresets/*
