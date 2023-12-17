@@ -7,7 +7,7 @@ To play this game, you should download the .zip file from here: https://github.c
 Then extract the compressed file and run the "MHVRFP.exe" executable file. 
 
 CONTROLS:
-W A S D to move around
-Mouse to look around
-F to grab
+W A S D to move around;
+Mouse to look around;
+F to grab;
 E to interact with puzzle
