@@ -1,8 +1,0 @@
-﻿Post-Mortem
-The main idea was to create a VR game for young women with mental health issues, using the game engine Unreal Engine. Our goal was to through some kind of therapy or different calming exercises improve the mental state of the players of the game. Or overall just improving the mood of the player.
-
-
-We had only a few mishaps but most of the project went better than expected. Especially the building of the environment and the implementation of the grabbing system. And the learning of Unreal Engine and it’s blueprints, since this was the first time any of us touched Unreal Engine
-
-
-The mishaps we encountered were overestimating the time we had to implement some features. We were going to implement multiple environments and therapies but didn’t really have the time to either research therapies or make multiple environments. Additionally we were going to have some kind of reward system but that didn’t make it in either. We also didn’t make the prototype in VR since we only had one VR-headset but three developers so it would become difficult to test our implementations
